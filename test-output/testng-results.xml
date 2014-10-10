@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68" started-at="2014-10-10T02:44:20Z" finished-at="2014-10-10T02:44:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68" started-at="2014-10-10T02:44:20Z" finished-at="2014-10-10T02:44:20Z">
+      <class name="com.felix.email.EmailMessageQuerierTest">
+        <test-method status="PASS" signature="testGetSearchTime(java.lang.String)[pri:0, instance:com.felix.email.EmailMessageQuerierTest@324382f9]" name="testGetSearchTime" duration-ms="39" started-at="2014-10-10T10:44:20Z" data-provider="timeData" finished-at="2014-10-10T10:44:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2010-10-10 23:12:23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSearchTime -->
+        <test-method status="PASS" signature="testGetSearchTime(java.lang.String)[pri:0, instance:com.felix.email.EmailMessageQuerierTest@324382f9]" name="testGetSearchTime" duration-ms="1" started-at="2014-10-10T10:44:20Z" data-provider="timeData" finished-at="2014-10-10T10:44:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2010-10-10 23:12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSearchTime -->
+        <test-method status="PASS" signature="testGetSearchTime(java.lang.String)[pri:0, instance:com.felix.email.EmailMessageQuerierTest@324382f9]" name="testGetSearchTime" duration-ms="2" started-at="2014-10-10T10:44:20Z" data-provider="timeData" finished-at="2014-10-10T10:44:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2010-10-10 23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSearchTime -->
+        <test-method status="PASS" signature="testGetSearchTime(java.lang.String)[pri:0, instance:com.felix.email.EmailMessageQuerierTest@324382f9]" name="testGetSearchTime" duration-ms="1" started-at="2014-10-10T10:44:20Z" data-provider="timeData" finished-at="2014-10-10T10:44:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2010-10-10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSearchTime -->
+      </class> <!-- com.felix.email.EmailMessageQuerierTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
